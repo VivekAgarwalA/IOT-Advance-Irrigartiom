@@ -1,0 +1,2 @@
+# IOT-Advance-Irrigartiom
+This project is designed and developed to integrate IoT with the Real-time Farming lands and promote more and more agriculture growth in India. The old methods were good, but the increasing population needs Growth and Development, and People are getting the source of Internet and other Platforms, they should be able to control and check real-time databases over the internet.  The Old Security Doll Won’t help anymore, need to upgrade in every way. Our Projects Promote this movement and Further improvements in the future will lead to a great start.
